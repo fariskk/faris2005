@@ -56669,7 +56669,7 @@ k.QG(m,B.fi)
 p=A.akm()
 p.a="POST"
 s=2
-return A.S(n.yc("http://gopluspunch.dotshr.com/apigopluspunch/dndApi/get_Work_log_dashbord_mobile",null,k,null,null,p,null,l),$async$$0)
+return A.S(n.yc("https://gopluspunch.dotshr.com/apigopluspunch/dndApi/get_Work_log_dashbord_mobile",null,k,null,null,p,null,l),$async$$0)
 case 2:o=b
 A.lW(o.a)
 q.a.a4(t.Cu).f.J7(A.abM(null,null,null,null,null,B.ag,null,A.ns(J.cn(o.a),null),null,B.xX,null,null,null,null,null,null,null,null,null))
